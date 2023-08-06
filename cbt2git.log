@@ -1,0 +1,13 @@
+2023-08-06 07:43:53.454851 - Initialized conversion of CBT813
+2023-08-06 07:43:53.636871 - Received CBT.V505.FILE813.PDS from FILE813.XMI 
+2023-08-06 07:43:53.639221 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:43:53.640495 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/$PDSLOAD
+2023-08-06 07:43:53.641686 - Found $PDSLSBG.jcl (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/$PDSLSBG
+2023-08-06 07:43:53.642650 - Found @FILE813.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/@FILE813
+2023-08-06 07:43:53.643632 - Found ISPPLIB.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/ISPPLIB
+2023-08-06 07:43:53.644640 - Found JCL.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/JCL
+2023-08-06 07:43:53.645677 - Found MACLIB.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/MACLIB
+2023-08-06 07:43:53.650932 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE813.PDS
+2023-08-06 07:43:53.657884   - Received RECFM=U data, stored XMIT file as CBT813/PDSLOAD.xmi
+2023-08-06 07:43:53.658919 - Found REXX.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/REXX
+2023-08-06 07:43:53.660363 - Found SOURCE.txt (text/plain) in CBT.V505.FILE813.PDS, moved to PDS/SOURCE
