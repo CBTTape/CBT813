@@ -1,13 +1,13 @@
-2025-04-15 05:48:44.955196 - Received CBT.V508.FILE813.PDS from FILE813.XMI 
-2025-04-15 05:48:44.956547 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:48:44.956860 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$PDSLOAD
-2025-04-15 05:48:44.957149 - Found $PDSLSBG.jcl (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$PDSLSBG
-2025-04-15 05:48:44.957353 - Found @FILE813.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/@FILE813
-2025-04-15 05:48:44.957572 - Found ISPPLIB.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/ISPPLIB
-2025-04-15 05:48:44.958036 - Found JCL.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/JCL
-2025-04-15 05:48:44.958693 - Found MACLIB.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/MACLIB
-2025-04-15 05:48:44.958891 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE813.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-15 05:48:44.964746 - Received WSBG.LOAD from PDSLOAD.xmi 
-2025-04-15 05:48:44.965403 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
-2025-04-15 05:48:44.965837 - Found REXX.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/REXX
-2025-04-15 05:48:44.967377 - Found SOURCE.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/SOURCE
+2025-04-16 00:28:08.088276 - Received CBT.V508.FILE813.PDS from FILE813.XMI 
+2025-04-16 00:28:08.089749 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:28:08.090049 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$PDSLOAD
+2025-04-16 00:28:08.090331 - Found $PDSLSBG.jcl (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/$PDSLSBG
+2025-04-16 00:28:08.090380 - Found @FILE813.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/@FILE813
+2025-04-16 00:28:08.090579 - Found ISPPLIB.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/ISPPLIB
+2025-04-16 00:28:08.090870 - Found JCL.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/JCL
+2025-04-16 00:28:08.091450 - Found MACLIB.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/MACLIB
+2025-04-16 00:28:08.091613 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE813.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-16 00:28:08.097803 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-16 00:28:08.098645 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-16 00:28:08.099177 - Found REXX.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/REXX
+2025-04-16 00:28:08.100690 - Found SOURCE.txt (text/plain) in CBT.V508.FILE813.PDS, moved to PDS/SOURCE
